@@ -1,0 +1,17 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+loc-identity/API Key.txt
+loc-identity/Secret Key.txt
+loc-identity/AppID.txt
+Geocoding/APIkey.txt
